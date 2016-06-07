@@ -1,5 +1,13 @@
 OSSEC v2.8 Copyright (C) 2014 Trend Micro Inc.
 
+# Information about Prelude integration
+
+To enable Prelude SIEM sensor, you have to run this in src directory :
+
+```
+make setprelude
+```
+
 # Information about OSSEC 
 
 OSSEC is a full platform to monitor and control your systems. It mixes together 
